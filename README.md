@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href=https://play.google.com/store/apps/developer?id=Autonoetica&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+  <img style="width:150px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+                                                                                                                                                    
 <!--
 **ikabanen/ikabanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
