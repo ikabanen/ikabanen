@@ -1,4 +1,12 @@
 ### Hi there 👋
+Hi. I'm Iryna. I build lots of fun projects on this account and the 
+<a href="http://autonoetica.com" target="_blank"><img src="http://autonoetica.com/images/logo-apricaphotography-pro-photographer-greater-Seattle-area.png" alt="" style="height: auto !important;width:auto !important;" ></a> organization. 
+
+🔭 I’m currently working on something exciting. 
+
+You can check my most recently pubished work here:
+
+<a href="https://play.google.com/store/apps/developer?id=Autonoetica" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="" style="height: auto !important;width:150px;" ></a>
 
 
                                                                                                                                                     
