@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 Hi. I'm Iryna. I build lots of fun projects on this account and the 
-<a href="http://autonoetica.com" target="_blank"><img src="http://autonoetica.com/images/logo-apricaphotography-pro-photographer-greater-Seattle-area.png" alt="" style="height: auto !important;width:auto !important;" ></a> organization. 
+<a href="http://autonoetica.com" target="_blank"><img src="http://autonoetica.com/images/logo-apricaphotography-pro-photographer-Thurston-county.png" alt="" style="height: auto !important;width:auto !important;" ></a> organization. 
 
 🔭 I’m currently working on something exciting. 
 
